@@ -60,3 +60,4 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 
 ## Change to test CI on pull request
 
+test
